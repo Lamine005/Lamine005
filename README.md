@@ -7,6 +7,8 @@ Welcome to my GitHub profile!
 - 🌐 I'm a passionate Mobile and Web Developer.
 - 🌱 Currently, I'm deepening my skills in JavaScript, React, Java, and Swift.
 - 💡 I'm interested in all things web, mobile, and software development.
+-  🚀 I'm actively seeking employment or an internship leading to a job by January 22, 2024.
+
 
 ## Collaboration and Learning 💞️
 
@@ -35,7 +37,9 @@ Bienvenue sur mon profil GitHub !
 
 - 👨‍💻 Je suis désireux de collaborer sur des projets liés au développement web et mobile, ainsi qu'au développement de logiciels en général.
 - 📚 En tant que développeur junior, mon objectif est d'apprendre et de grandir à travers des expériences pratiques et des collaborations.
-- Je suis aussi ouvert à collaborer aux projets Open source
+- Je suis aussi ouvert à collaborer aux projets Open source.
+- 🚀 Je suis activement à la recherche d'un emploi ou d'un stage qui déboucherait sur un emploi pour le 22 janvier 2024.
+
 
 ## Contactez-moi 📫
 
